@@ -24,5 +24,15 @@
   11. Modify Square.py(commit)
   12. check the history from the each branch 
   13. check the differences between the commits in each  branch *
-  
+
+What is git to learn 
+    GIT-scm.org ---> https://git-scm.com/videos
+
+2 coursers for git to learn
+* 1. https://olympus.mygreatlearning.com/courses/65405
+  2. https://olympus.mygreatlearning.com/courses/53846
+  3. https://skills.github.com/
      
+
+
+  
