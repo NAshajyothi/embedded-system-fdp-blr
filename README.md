@@ -1,5 +1,5 @@
 # embedded-system-fdp-blr
-###sample code declarations 
+##sample code declarations 
 ## heading 
 
 *bullet pointd 
@@ -7,7 +7,6 @@
 * italic_italic_
 
 * *here is an example Code
-* ***python
- printf("helloword")
-***
+* **python
+ printf("helloword")**
 
